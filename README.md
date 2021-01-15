@@ -9,7 +9,9 @@ Node.js Git GitHub account
 
 ## Installation Steps
 ` Clone repo `
+
 ` Run npm install `
+
 ` Install the module globally with npm install -g from within the project directory `
 ## Running the app
 Navigate to the cli-app folder
